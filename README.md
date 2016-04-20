@@ -1,0 +1,2 @@
+# miui7_JBART
+Miui_v7_Highscreen_Zera_S_Rev.S_Replace
